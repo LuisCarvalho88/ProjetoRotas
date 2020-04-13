@@ -1,0 +1,48 @@
+.titulo-home{
+    color: #191970;
+}
+
+.titulo-admin{
+    color: #4F4F4F;
+}
+
+body{
+    background-color:#D3D3D3 ;
+}
+
+ul{
+    text-align: center;
+    padding: 0;
+    list-style: none;
+    width: 720px;
+    /*float: left;*/
+    margin-left: 1080px;
+    margin-block-end: 0px;
+}
+
+ul li{    
+    /*border: 1px solid red;*/
+    background: #159cb0;
+    float: left;
+}
+
+ul a{
+    display: block;
+    padding: 0 2em;
+    line-height: 2em;
+    text-decoration: none;
+    color: white;
+    border: 1px solid #00BFFF;
+}
+
+form{
+    display: block;
+    padding: 0 2em;
+    line-height: 2em;
+    text-decoration: none;
+    color: black;
+    border: 1px solid black;
+    float: left;
+    margin: 10px;
+    text-align: center;
+}
